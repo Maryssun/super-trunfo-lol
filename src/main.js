@@ -26,12 +26,12 @@ function sortearCarta() {
   // const atributosJogador = document.getElementById("atributos-jogador");
   // atributosJogador.innerHTML = null;
 
-  let numeroCartaMaquina = parseInt(Math.random() * 4);
+  let numeroCartaMaquina = parseInt(Math.random() * cartas.length);
   cartaMaquina = cartas[numeroCartaMaquina];
 
-  let numeroCartaJogador = parseInt(Math.random() * 4);
+  let numeroCartaJogador = parseInt(Math.random() * cartas.length);
   while (numeroCartaMaquina == numeroCartaJogador) {
-    numeroCartaJogador = parseInt(Math.random() * 3);
+    numeroCartaJogador = parseInt(Math.random() * cartas.length - 1);
   }
 
   cartaJogador = cartas[numeroCartaJogador];
