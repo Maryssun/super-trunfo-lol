@@ -1,6 +1,6 @@
 <div align="center">
 
-![titulo e imagem da capa](./src/images/nome-projeto-readme.png)
+![titulo e imagem da capa](./src/images/logo.png)
 
 </div>
 
@@ -17,29 +17,27 @@
 A [Laboratoria](https://www.laboratoria.la/br) nos desafiou a escolher o [projeto](https://github.com/Laboratoria/SAP007-data-lovers) de uma das integrantes do grupo, projeto esse que foi entregue em outro momento do Bootcamp e desenvolver um produto novo a partir dele. Fizemos uma pesquisa de usuário onde nos levou criar um jogo de cartas utilizando os personagens do Leage Of Legends baseado no [projeto](https://vanessavb92.github.io/SAP007-data-lovers/src/) da Vanessa.
 Foi então que surgiu o [SuperTrunfo Lol](https://juliabb.github.io/super-trunfo-lol/). Ele é um jogo de cartas que se baseia na comparação dos valores da carta do usuário com os valores da carta do adversário. E para vencer, a característica escolhida precisa ter valor maior do que o atributo escolhido pelo adversário, no caso, o usuário estará jogando contra a máquina.<br>
 
-## Desenvolvido por:
+** Desenvolvido por:
 
 [Dayane Maryssol](https://www.linkedin.com/in/dayannemaryssol/), [Julia Benedicto](https://www.linkedin.com/in/julia-cruz-7aa339183/), [Keila Hadama](https://www.linkedin.com/in/keila-hadama/), [Taila Martins](https://www.linkedin.com/in/taila-martins/), [Thais Bonalume](https://www.linkedin.com/in/thais-moreira-jesus-bonalume/) e [Vanessa Borges](https://www.linkedin.com/in/vanessa-borges-a05b4636/).
 
 ---
 # 2. Refatoração do projeto
 
-A refatoração do projeto foi feita após um teste de usabilidade, onde os participantes realizaram tarefas típicas enquanto nós obervamos e anotamos. O projeto apresentado para tal teste foi esse(https://juliabb.github.io/super-trunfo-lol/).<br>
+A refatoração do projeto foi feita após um teste de usabilidade, onde os participantes realizaram tarefas típicas enquanto nós obervamos e anotamos. O projeto apresentado para tal teste foi [esse](https://juliabb.github.io/super-trunfo-lol/).<br>
 
 ![imagem do projeto anterior](./src/images/projeto-antigo-layout.png)
 
-As perguntas feitas foram:
+- Fizemos as seguintes perguntas durante o processo de teste:
 
-O que você achou do layout?
-A jogabilidade foi fácil?
-É compreensível o modo de jogo?
-Há algo que você gostaria que mudassêmos?
+O que você achou do layout?<br>
+A jogabilidade foi fácil?<br>
+É compreensível o modo de jogo?<br>
+Há algo que você gostaria que mudassêmos?<br>
+
+- Os resultados da pesquisa:
 
 <!-- imagem  do teste de usabilidade -->
-
-Após o teste obtivemos o seguinte resultado:
-
-![imagem do atual projeto](./src/images/imagem-projeto.png)
 
 ---
 <!-- # 3. Implementações futuras
