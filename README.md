@@ -6,32 +6,27 @@
 
 ## Índice
 
-  - [1. Super Trunfo - League of Legends](#-super-trunfo---league-of-legends)
-  - [2. Refatoração do projeto](#-refatoração-do-projeto)
-  - [3. Descrição do projeto](#-descrição-do-projeto)
-  - [ Status do Projeto](#status-do-projeto)
-  - [ Funcionalidades do projeto](#-funcionalidades-do-projeto)
-  - [ Acesso ao projeto](#acesso-ao-projeto)
-  - [ Prototipo de alta Fidelidade](#-prototipo-de-alta-fidelidade)
-  - [ Ferramentas Utilizadas](#-ferramentas-utilizadas)
-  - [ Desenvolvedoras](#desenvolvedoras)
-
+- [1. Super Trunfo - League of Legends](#-super-trunfo---league-of-legends)
+- [2. Refatoração do projeto](#-refatoração-do-projeto)
+- [3. Implementações futuras](#-implementações-futuras)
+- [4. Projeto final](#projeto-final)
+- [5. Desenvolvedoras](#desenvolvedoras)
 
 # 1. Super Trunfo - League of Legends
- 
-A [Laboratoria](https://www.laboratoria.la/br) nos desafiou a escolher o [projeto](https://github.com/Laboratoria/SAP007-data-lovers) de uma das integrantes do grupo, projeto esse que foi entregue em outro momento do Bootcamp e desenvolver um produto novo a partir dele. Fizemos uma pesquisa de usuário onde nos levou criar um jogo de cartas utilizando os personagens do Leage Of Legends baseado no [projeto](https://vanessavb92.github.io/SAP007-data-lovers/src/) da Vanessa. 
+
+A [Laboratoria](https://www.laboratoria.la/br) nos desafiou a escolher o [projeto](https://github.com/Laboratoria/SAP007-data-lovers) de uma das integrantes do grupo, projeto esse que foi entregue em outro momento do Bootcamp e desenvolver um produto novo a partir dele. Fizemos uma pesquisa de usuário onde nos levou criar um jogo de cartas utilizando os personagens do Leage Of Legends baseado no [projeto](https://vanessavb92.github.io/SAP007-data-lovers/src/) da Vanessa.
 Foi então que surgiu o [SuperTrunfo Lol](https://juliabb.github.io/super-trunfo-lol/). Ele é um jogo de cartas que se baseia na comparação dos valores da carta do usuário com os valores da carta do adversário. E para vencer, a característica escolhida precisa ter valor maior do que o atributo escolhido pelo adversário, no caso, o usuário estará jogando contra a máquina.<br>
 
 ## Desenvolvido por:
+
 [Dayane Maryssol](https://www.linkedin.com/in/dayannemaryssol/), [Julia Benedicto](https://www.linkedin.com/in/julia-cruz-7aa339183/), [Keila Hadama](https://www.linkedin.com/in/keila-hadama/), [Taila Martins](https://www.linkedin.com/in/taila-martins/), [Thais Bonalume](https://www.linkedin.com/in/thais-moreira-jesus-bonalume/) e [Vanessa Borges](https://www.linkedin.com/in/vanessa-borges-a05b4636/).
 
 ---
-
- ## Refatoração do projeto
+# 2. Refatoração do projeto
 
 A refatoração do projeto foi feita após um teste de usabilidade, onde os participantes realizaram tarefas típicas enquanto nós obervamos e anotamos. O projeto apresentado para tal teste foi esse(https://juliabb.github.io/super-trunfo-lol/).<br>
 
-![titulo e imagem da capa](./src/images/projeto-antigo-layout.png)
+![imagem do projeto anterior](./src/images/projeto-antigo-layout.png)
 
 As perguntas feitas foram:
 
@@ -40,65 +35,61 @@ A jogabilidade foi fácil?
 É compreensível o modo de jogo?
 Há algo que você gostaria que mudassêmos?
 
+<!-- imagem  do teste de usabilidade -->
 
+Após o teste obtivemos o seguinte resultado:
 
-![imagem da pagina web](/image.png)
+![imagem do atual projeto](./src/images/imagem-projeto.png)
 
-## Status do Projeto
-<h4 align="center">
-     🚧 Projeto em construção 🚧
-</h4>
+---
+<!-- # 3. Implementações futuras
 
-## 🛠 Funcionalidades do projeto
-A aplicação foi desenvolvida pensando nos fãs e suas necessidades de jogar um jogo classico. Focando no interesse em conhecer mais sobre os campeões. Levando em consideração a funcionalidade, acessibilidade e a experiencia como um todo.
+- Adicionar um segundo player.
+- Responsividade para dispositivos de telas pequenas (tablets, telefones celulares etc.).
+ -->
 
-## Acesso ao projeto
-o deploy foi feito usando o gitpages pra ter acesso clique [aqui](https://juliabb.github.io/super-trunfo-lol/)
+---
+# 4. Projeto final
 
-## 🎨 Prototipo de alta Fidelidade
-O prototipo foi desenvolvido ultilizando a ferramenta [Figma](https://www.figma.com/file/xRhpBQkoFxHq0yLPZ1eSBy/Untitled)
+![gif do resultado final](./src/images/gif.video.projeto.gif)
 
-## ⚙ Ferramentas Utilizadas
+---
+# 5. Desenvolvedoras
 
-Para a construção desse projeto foram utilizadas as seguintes ferramentas:
+<table>
+<td>
+  <div align= "center">
+    <img alt="Dayanne Maryssol" height="150" src="https://avatars.githubusercontent.com/u/92697749?v=4"> 
+  </div>
+  <h3 align="center"><a href="https://github.com/Maryssun">Dayanne Maryssol de Andrade Almeida</a></h3>
+  <h4 align="center">Projeto do Bootcamp da <em><a href="https://hub.laboratoria.la/br">Laboratoria</a></em></h4>
+  <div align="center">
+    <a href = "mailto:maryssol.dayanne@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+     <a href="https://www.linkedin.com/in/dayannemaryssol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  </div>
+  </div>
+</td>
 
-- JavaScript
-- HTML 5
-- CSS
-- Node.JS
-- Figma
+<td>
+  <div align= "center">
+    <img alt="Keila Hadama" height="150" src="https://avatars.githubusercontent.com/u/88164568?v=4"> 
+  </div>
+  <h3 align="center"><a href="https://github.com/hadamakei">Keila Hadama</a></h3>
+  <h4 align="center">Projeto do Bootcamp da <em><a href="https://hub.laboratoria.la/br">Laboratoria</a></em></h4>
+    <a href="https://www.linkedin.com/in/adrianatwatanabe" target="_blank"><img src="https://www.linkedin.com/in/keila-hadama-45a903193/"></a>
+  </div>
+</td>
 
+<td>
+    <div align= "center">
+    <img alt="Vanessa Borges" height="150" src="https://avatars.githubusercontent.com/u/89863244?v=4"> 
+  </div>
+  <h3 align="center"><a href="https://github.com/vanessavb92">Vanessa Borges</a></h3>
+  <h4 align="center">Projeto do Bootcamp da <em><a href="https://hub.laboratoria.la/br">Laboratoria</a></em></h4>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/vanessa-borges-a05b4636/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  </div>
+   
+</td>
 
-## Desenvolvedoras
-👩[Dayane Marrysol](https://www.linkedin.com/in/dayannemaryssol/)
-
-👩[Julia Benedicto](https://www.linkedin.com/in/julia-cruz-7aa339183/)
-
-👩[Keila Hadama](https://www.linkedin.com/in/keila-hadama/)
-
-👩[Taila Martins](https://www.linkedin.com/in/taila-martins/)
-
-👩[Thais Bonalume](https://www.linkedin.com/in/thais-moreira-jesus-bonalume/)
-
-👩[Vanessa Borges](https://www.linkedin.com/in/vanessa-borges-a05b4636/)
-
-
-
-
-
-
-
-
-
-
-Como implementação futura. a gente quer adicionar um segundo player 
-
-
-
-
-
-
-
-
-
-
+</table>

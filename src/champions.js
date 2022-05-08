@@ -1,3 +1,8 @@
+export const cartas = {
+  
+}
+
+
 export const carta1 = {
   name: "Aatrox",
   img:

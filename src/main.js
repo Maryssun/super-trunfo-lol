@@ -19,8 +19,12 @@ function sortearCarta() {
   divResultado.innerHTML = null;
   const divCartaMaquina = document.getElementById("carta-maquina");
   divCartaMaquina.style.backgroundImage = null;
+  // const divCartaJogador = document.getElementById("carta-jogador");
+  // divCartaJogador.style.backgroundImage = null;
   const atributosMaquina = document.getElementById("atributos-maquina");
   atributosMaquina.innerHTML = null;
+  // const atributosJogador = document.getElementById("atributos-jogador");
+  // atributosJogador.innerHTML = null;
 
   let numeroCartaMaquina = parseInt(Math.random() * 4);
   cartaMaquina = cartas[numeroCartaMaquina];
@@ -72,7 +76,7 @@ function jogar() {
   else {
     placar[0];
     placar[1];
-    htmlResultado = "<p class='resultado-final'>Empatou</p>";
+    htmlResultado = "<p class='resultado-final'>Empatou.</p>";
     finalizarJogo();
   }
   divResultado.innerHTML = htmlResultado;
@@ -95,7 +99,7 @@ function exibirCartaJogador() {
   for (let atributo in cartaJogador.atributes) {
     atributos += `
       <label class="radio-grupo">
-        <input type="radio" name="atributo-jogador" value="${atributo}">
+        <input type="radio" name="atributo-jogador" value="${atributo}"> 
         ${(cartaJogador.atributes[atributo]).toString().padStart(2, 0)} - ${atributo.toUpperCase()}
       </label>
     `;
