@@ -62,7 +62,6 @@ Há algo que você gostaria que mudassêmos?<br>
   <h3 align="center"><a href="https://github.com/Maryssun">Dayanne Maryssol de Andrade Almeida</a></h3>
   <h4 align="center">Projeto do Bootcamp da <em><a href="https://hub.laboratoria.la/br">Laboratoria</a></em></h4>
   <div align="center">
-    <a href = "mailto:maryssol.dayanne@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
      <a href="https://www.linkedin.com/in/dayannemaryssol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
   </div>
@@ -74,7 +73,7 @@ Há algo que você gostaria que mudassêmos?<br>
   </div>
   <h3 align="center"><a href="https://github.com/hadamakei">Keila Hadama</a></h3>
   <h4 align="center">Projeto do Bootcamp da <em><a href="https://hub.laboratoria.la/br">Laboratoria</a></em></h4>
-    <a href="https://www.linkedin.com/in/adrianatwatanabe" target="_blank"><img src="https://www.linkedin.com/in/keila-hadama-45a903193/"></a>
+    <a href="https://www.linkedin.com/in/keila-hadama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 </td>
 
