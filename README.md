@@ -14,7 +14,7 @@
 
 # 1. Super Trunfo - League of Legends
 
-A [Laboratoria](https://www.laboratoria.la/br) nos desafiou a escolher o [projeto](https://github.com/Laboratoria/SAP007-data-lovers) de uma das integrantes do grupo, projeto esse que foi entregue em outro momento do Bootcamp e desenvolver um produto novo a partir dele. Fizemos uma pesquisa de usuário onde nos levou criar um jogo de cartas utilizando os personagens do Leage Of Legends baseado no [projeto](https://vanessavb92.github.io/SAP007-data-lovers/src/) da Vanessa.
+A [Laboratoria](https://www.laboratoria.la/br) nos desafiou a escolher o [projeto](https://github.com/Laboratoria/SAP007-data-lovers) de uma das integrantes do grupo, projeto esse que foi entregue em outro momento do Bootcamp e desenvolver um produto novo a partir dele. Fizemos uma pesquisa de usuário onde nos levou criar um jogo de cartas utilizando os personagens do Leage Of Legends baseado no [trabalho](https://vanessavb92.github.io/SAP007-data-lovers/src/) da Vanessa.
 Foi então que surgiu o [SuperTrunfo Lol](https://juliabb.github.io/super-trunfo-lol/). Ele é um jogo de cartas que se baseia na comparação dos valores da carta do usuário com os valores da carta do adversário. E para vencer, a característica escolhida precisa ter valor maior do que o atributo escolhido pelo adversário, no caso, o usuário estará jogando contra a máquina.<br>
 
 * Desenvolvido por:
@@ -28,9 +28,9 @@ A refatoração do projeto foi feita após um teste de usabilidade, onde os part
 
 ![imagem do projeto anterior](./src/images/projeto-antigo-layout.png)
 
-- Fizemos as seguintes perguntas durante o processo de teste:
+- Fizemos as seguintes perguntas durante o processo:
 
-<div align="center">
+<div align="left">
 
 O que você achou do layout?<br>
 A jogabilidade foi fácil?<br>
@@ -44,11 +44,11 @@ Há algo que você gostaria que mudassêmos?<br>
 <!-- imagem  do teste de usabilidade -->
 
 ---
-<!-- # 3. Implementações futuras
+ # 3. Implementações futuras
 
 - Adicionar um segundo player.
+- Adicionar ranking para os jogadores.
 - Responsividade para dispositivos de telas pequenas (tablets, telefones celulares etc.).
- -->
 
 ---
 # 4. Projeto final
