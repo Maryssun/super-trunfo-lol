@@ -73,6 +73,7 @@ Há algo que você gostaria que mudassêmos?<br>
   </div>
   <h3 align="center"><a href="https://github.com/hadamakei">Keila Hadama</a></h3>
   <h4 align="center">Projeto do Bootcamp da <em><a href="https://hub.laboratoria.la/br">Laboratoria</a></em></h4>
+  <div align="center">
     <a href="https://www.linkedin.com/in/keila-hadama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 </td>
