@@ -41,7 +41,7 @@ Há algo que você gostaria que mudassêmos?<br>
 
 - Os resultados da pesquisa:
 
-<!-- imagem  do teste de usabilidade -->
+![teste de usabilidade](./src/images/usabilidade-readme.png)
 
 ---
  # 3. Implementações futuras
