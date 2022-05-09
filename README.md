@@ -7,7 +7,7 @@
 ## Índice
 
 - [1. Super Trunfo - League of Legends](#-super-trunfo---league-of-legends)
-- [2. Refatoração do projeto](#-refatoração-do-projeto)
+- [2. Refatoração](#-refatoração)
 - [3. Implementações futuras](#-implementações-futuras)
 - [4. Projeto final](#projeto-final)
 - [5. Desenvolvedoras](#desenvolvedoras)
@@ -22,7 +22,7 @@ Foi então que surgiu o [SuperTrunfo Lol](https://juliabb.github.io/super-trunfo
 [Dayane Maryssol](https://www.linkedin.com/in/dayannemaryssol/), [Julia Benedicto](https://www.linkedin.com/in/julia-cruz-7aa339183/), [Keila Hadama](https://www.linkedin.com/in/keila-hadama/), [Taila Martins](https://www.linkedin.com/in/taila-martins/), [Thais Bonalume](https://www.linkedin.com/in/thais-moreira-jesus-bonalume/) e [Vanessa Borges](https://www.linkedin.com/in/vanessa-borges-a05b4636/).
 
 ---
-# 2. Refatoração do projeto
+# 2. Refatoração
 
 <div align="center">
   
