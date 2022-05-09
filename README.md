@@ -12,6 +12,8 @@
 - [4. Projeto final](#projeto-final)
 - [5. Desenvolvedoras](#desenvolvedoras)
 
+---
+
 # 1. Super Trunfo - League of Legends
 
 A [Laboratoria](https://www.laboratoria.la/br) nos desafiou a escolher o [projeto](https://github.com/Laboratoria/SAP007-data-lovers) de uma das integrantes do grupo, projeto esse que foi entregue em outro momento do Bootcamp e desenvolver um produto novo a partir dele. Fizemos uma pesquisa de usuário onde nos levou criar um jogo de cartas utilizando os personagens do Leage Of Legends baseado no [trabalho](https://vanessavb92.github.io/SAP007-data-lovers/src/) da Vanessa.
