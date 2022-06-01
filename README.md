@@ -62,9 +62,7 @@ A refatoração do projeto foi feita após um teste de usabilidade, onde os part
 O jogo foi idealizado para desktop porque o público-alvo que gostaríamos de atingir eram os gamers de LOL e o jogo online é para computador. As implementações serão desenvolvidas e adicionadas ao deploy em breve. 
 
 *Mudanças:* Alteramos a estrutura do card que antes era uma imagem e reconstruímos utilizando CSS. 
-Fizemos algumas alterações na lógica como a o habilitar e o desabilitar dos botões para deixá-lo intuitivo o suficiente a ponto de não necessitar de manual ou uma informaçõa prévia sobre o jogo. 
-Alteramos também a visualização do card da máquina, ao clicar para jogar novamente o card vira e só aparece o card do adversário após o usuário escolher o atributo. A página ganhou um rodapé com informações sobre as autoras, sobre o jogo que nos baseamos e sobre a Laboratória.
-Aumentamos o número de personagens para melhorar a jogabilidade.
+Fizemos algumas alterações na lógica como a o habilitar e o desabilitar dos botões para deixá-lo intuitivo o suficiente a ponto de não necessitar de manual ou uma informação prévia sobre o jogo. Alteramos também a visualização do card da máquina, ao clicar para jogar novamente o card vira e só aparece o card do adversário após o usuário escolher o atributo. A página ganhou um rodapé com informações sobre as autoras, sobre o jogo que nos baseamos e sobre a Laboratória. Aumentamos o número de personagens para melhorar a jogabilidade.
 
 ![gif do resultado final](./src/images/gif.video.projeto.gif)
 
