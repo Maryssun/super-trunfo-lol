@@ -66,6 +66,7 @@ Fizemos algumas alterações na lógica como a o habilitar e o desabilitar dos b
 
 ![gif do resultado final](./src/images/gif.video.projeto.gif)
 
+---
 # 5. Desenvolvedoras
 
 <table>
